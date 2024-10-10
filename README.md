@@ -28,8 +28,8 @@
 1. **Склонируйте репозиторий**:
 
    ```bash
-   git clone https://github.com/ваш_логин/имя_репозитория.git
-   cd имя_репозитория
+   git clone https://github.com/KetoIT/docker-swagger-test.git
+   cd docker-swagger-test
 Запустите Docker Compose:
 
 docker-compose up --build
